@@ -2,8 +2,7 @@
 Why do 30% of patients miss their scheduled appointments?
 
 
-![Uploading image.png…]()
-
+![smiling-people-sitting-chairs-waiting-doctor-s-appointment-time-hospital-men-women-physician-s-smiling-people-128822167](https://user-images.githubusercontent.com/43109841/136189062-f12e5ee9-263d-4e89-b880-7d490a880175.jpeg)
 
 
 
