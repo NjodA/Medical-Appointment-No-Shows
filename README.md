@@ -62,7 +62,7 @@ This analysis aims to outline some possible reasons for patient no-showing at th
 
 
 ## Tools 
-•	### Pandas: a library offers data structures and operations for manipulating numerical tables and time series.
+•	Pandas: a library offers data structures and operations for manipulating numerical tables and time series.
 
 •	Numpy: a library used for working with arrays. It also has functions for working in domain of linear algebra, fourier transform, and matrices.
 
