@@ -43,6 +43,22 @@ What is the explanation for a person making a doctor appointment, receives all t
 
 •	No-show: "Yes" or "No" ("No" means they showed up on their appointments while "Yes" means they didn't!).
 
+Feature	Description
+PatientId	Unique identification number for a patient
+AppointmentID	Unique identification number for each appointment scheduled
+Gender	Patient gender (Male or Female)
+ScheduledDay	The day a medical appointment was scheduled
+AppointmentDay	The day of the actual meet with the doctor
+Age	How old the patient is (in years)
+Neighbourhood	Where the appointment takes place
+Scholarship	Whether or not a patient is enrolled in the Brasilian Bolsa Família welfare program (True of False). More info here
+Hipertension	Whether a patient is hypertensive or not (True or False)
+Diabetes	Whether a patient is diabetic or not (True or False)
+Alcoholism	Whether a patient drinks alcohol or not (True or False)
+Handcap	Whether a patient has a handicap or not (True or False)
+SMS_received	1 or more messages sent to the patient (True or False)
+No-show	Whether a patient showed for their appointment (No: showed up, Yes: didn't show up)
+
 ## Questions for Analysis
 This analysis aims to outline some possible reasons for patient no-showing at the scheduled appointments, as well as get insights about the Brazilian public health system. To accomplish this, we will first try to understand the data and the context on which they were collected. Then we will exploratory data analysis.
 
