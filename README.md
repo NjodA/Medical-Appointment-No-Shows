@@ -34,6 +34,7 @@ What is the explanation for a person making a doctor appointment, receives all t
 •	Diabetes: 1 or 0.
 
 •	Alcoholism: 1 or 0.
+
 •	Handcap: 1 or 0.
 
 •	SMS_received: 1 or more messages sent to the patient.
