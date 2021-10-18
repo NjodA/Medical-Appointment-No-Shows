@@ -70,8 +70,10 @@ This analysis aims to outline some possible reasons for patient no-showing at th
 •	Seaborn: a data visualization library built on top of matplotlib and closely integrated with pandas data structures in Python.
 
 ## Data Cleaning 
-Data cleansing or data cleaning is the process of detecting and correcting (or removing) corrupt or inaccurate records from a record set, table, or database and refers to identifying incomplete, incorrect, inaccurate or irrelevant parts of the data and then replacing, modifying, or deleting the dirty or coarse data. 
+Data cleaning is the process of detecting and correcting (or removing) corrupt or inaccurate records from a record set, table, or database and refers to identifying incomplete, incorrect, inaccurate or irrelevant parts of the data and then replacing, modifying, or deleting the dirty or coarse data. 
 Data cleansing may be performed interactively with data wrangling tools, or as batch processing through scripting.
+
+•	Edit the "No-show" column to be in positive form instead of negativity.
 
 •	Edit the "ScheduledDay", and "AppointmentDay" columns datatype to be Datetime.
 
