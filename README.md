@@ -57,13 +57,14 @@ This analysis aims to outline some possible reasons for patient no-showing at th
 
 •	Where do most appointments take place? 
 
+•	Is the duration between registration and appointment affect the ability to show up? 
+
+
 •	Are patients who received SMS messages reminding them of the appointment likely to attend? 
 
 •	What is the percentage of patients diagnosed with diabetes, hypertension, alcoholism and disability? 
 
 •	Is drinking alcohol a cause of missing appointments? “ Classification> Logistic Regression Model”
-
-•	Is the duration between registration and appointment affect the ability to show up? 
 
 •	Do older patients more committed to medical schedules than others? 
 
