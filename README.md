@@ -45,6 +45,7 @@ What is the explanation for a person making a doctor appointment, receives all t
 
 ## Algorithms
 • Classification> Logistic Regression Model.
+
 • Regression > Linear Regression Model.
 
 ## Questions for Analysis
