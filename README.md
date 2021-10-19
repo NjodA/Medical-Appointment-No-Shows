@@ -43,25 +43,28 @@ What is the explanation for a person making a doctor appointment, receives all t
 
 •	No-show: "Yes" or "No" ("No" means they showed up on their appointments while "Yes" means they didn't!).
 
+## Algorithms
+• Classification> Logistic Regression Model.
+• Regression > Linear Regression Model.
 
 ## Questions for Analysis
 This analysis aims to outline some possible reasons for patient no-showing at the scheduled appointments, as well as get insights about the Brazilian public health system. To accomplish this, we will first try to understand the data and the context on which they were collected. Then we will exploratory data analysis.
 
-•	What is the percentage of patients who show up on their appointments vs. who not? " Classification> Logistic Regression Model”
+•	What is the percentage of patients who show up on their appointments vs. who not? 
 
-•	Is one gender more committed to medical schedules than another? “ Classification> Logistic Regression Model”
+•	Is one gender more committed to medical schedules than another? 
 
-•	Where do most appointments take place? “ Classification> Logistic Regression Model”
+•	Where do most appointments take place? 
 
-•	Are patients who received SMS messages reminding them of the appointment likely to attend? “ Classification> Logistic Regression Model”
+•	Are patients who received SMS messages reminding them of the appointment likely to attend? 
 
-•	What is the percentage of patients diagnosed with diabetes, hypertension, alcoholism and disability? “ Regression > Linear Regression Model “
+•	What is the percentage of patients diagnosed with diabetes, hypertension, alcoholism and disability? 
 
 •	Is drinking alcohol a cause of missing appointments? “ Classification> Logistic Regression Model”
 
-•	Is the duration between registration and appointment affect the ability to show up? “ Classification> Logistic Regression Model”
+•	Is the duration between registration and appointment affect the ability to show up? 
 
-•	Do older patients more committed to medical schedules than others? “ Classification> Logistic Regression Model”
+•	Do older patients more committed to medical schedules than others? 
 
 
 ## Tools 
