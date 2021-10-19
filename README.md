@@ -92,21 +92,4 @@ This analysis aims to outline some possible reasons for patient no-showing at th
 
 •	Seaborn: a data visualization library built on top of matplotlib and closely integrated with pandas data structures in Python.
 
-## Result:
-• Percentage of patients who show up on their appointments represents 79.8%
-
-• Percentage of patients who Don't show up on their appointments represents 20.2%
-
-• Both genders have same commitment to medical schedules.
-
-• "JARDIM CAMBURI" is the most frequent place.
-
-• Patients Who didn't show up have an average of 15 days between registeration day and their appointments.
-
-• Patients Who show up have an average of 8 days between registeration day and their appointments.
-
-• As Duration increases, the ability of patients to show up on their appointments decreases.
-
-• Older patients are more commited to their appointments' schedules than younger ones.
-
 
