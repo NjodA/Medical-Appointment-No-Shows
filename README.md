@@ -64,7 +64,7 @@ This analysis aims to outline some possible reasons for patient no-showing at th
 
 •	What is the percentage of patients diagnosed with diabetes, hypertension, alcoholism and disability? 
 
-•	Is drinking alcohol a cause of missing appointments? “ Classification> Logistic Regression Model”
+•	Is drinking alcohol a cause of missing appointments? 
 
 •	Do older patients more committed to medical schedules than others? 
 
