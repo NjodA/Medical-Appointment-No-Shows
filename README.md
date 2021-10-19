@@ -29,7 +29,7 @@ What is the explanation for a person making a doctor appointment, receives all t
 
 •	Neighborhood: Where the appointment takes place.
 
-•	Scholarship: 1 or 0. (this is a program in Brazil to support poor people with their cost of living)
+•	Scholarship: 1 or 0 (this is a program in Brazil to support poor people with their cost of living).
 
 •	Hipertension: Whether a patient is hypertensive or not (True or False).
 
