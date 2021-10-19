@@ -43,6 +43,20 @@ What is the explanation for a person making a doctor appointment, receives all t
 
 •	No-show: "Yes" or "No" ("No" means they showed up on their appointments while "Yes" means they didn't!).
 
+
+## Data Cleaning 
+Data cleaning is the process of detecting and correcting (or removing) corrupt or inaccurate records from a record set, table, or database and refers to identifying incomplete, incorrect, inaccurate or irrelevant parts of the data and then replacing, modifying, or deleting the dirty or coarse data. 
+
+Data cleaning may be performed interactively with data wrangling tools, or as batch processing through scripting.
+
+•	Edit the "No-show" column to be in positive form instead of negativity.
+
+•	Edit the "ScheduledDay", and "AppointmentDay" columns datatype to be Datetime.
+
+•	Edit the "PatientId", and "AppointmentID" columns datatype to be String.
+
+•	Delete row with negative age value.
+
 ## Algorithms
 • Classification> Logistic Regression Model.
 
@@ -78,17 +92,21 @@ This analysis aims to outline some possible reasons for patient no-showing at th
 
 •	Seaborn: a data visualization library built on top of matplotlib and closely integrated with pandas data structures in Python.
 
-## Data Cleaning 
-Data cleaning is the process of detecting and correcting (or removing) corrupt or inaccurate records from a record set, table, or database and refers to identifying incomplete, incorrect, inaccurate or irrelevant parts of the data and then replacing, modifying, or deleting the dirty or coarse data. 
+## Result:
+• Percentage of patients who show up on their appointments represents 79.8%
 
-Data cleaning may be performed interactively with data wrangling tools, or as batch processing through scripting.
+• Percentage of patients who Don't show up on their appointments represents 20.2%
 
-•	Edit the "No-show" column to be in positive form instead of negativity.
+• Both genders have same commitment to medical schedules.
 
-•	Edit the "ScheduledDay", and "AppointmentDay" columns datatype to be Datetime.
+• "JARDIM CAMBURI" is the most frequent place.
 
-•	Edit the "PatientId", and "AppointmentID" columns datatype to be String.
+• Patients Who didn't show up have an average of 15 days between registeration day and their appointments.
 
-•	Delete row with negative age value.
+• Patients Who show up have an average of 8 days between registeration day and their appointments.
+
+• As Duration increases, the ability of patients to show up on their appointments decreases.
+
+• Older patients are more commited to their appointments' schedules than younger ones.
 
 
